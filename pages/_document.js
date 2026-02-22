@@ -16,6 +16,8 @@ class MyDocument extends Document {
         >
           <Main />
           <NextScript />
+          
+          <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
         </body>
       </Html>
     );
